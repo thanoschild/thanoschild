@@ -1,4 +1,4 @@
-name: Generate Snake Game
+name: Generate Snake Game and Deploy
 
 on:
   push:
@@ -26,3 +26,18 @@ jobs:
           dist/github-snake.svg
           dist/github-snake-dark.svg?palette=github-dark
           dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+    - name: Push changes to main
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main  
+        force: true
+
+    - name: Deploy to GitHub Pages
+      uses: crazy-max/ghaction-github-pages@v2.1.3
+      with:
+        target_branch: gh-pages  # Use 'output' if you've configured GitHub Pages to use it
+        build_dir: dist
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

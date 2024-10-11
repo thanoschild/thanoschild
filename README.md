@@ -8,8 +8,8 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://thanoschild.github.io/thanoschild/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://thanoschild.github.io/thanoschild/github-snake.svg" />
-  <img alt="github-snake" src="https://thanoschild.github.io/thanoschild/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/thanoschild/thanoschild/blob/gh-pages/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/thanoschild/thanoschild/blob/gh-pages/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/thanoschild/thanoschild/blob/gh-pages/github-snake.svg" />
 </picture>
 

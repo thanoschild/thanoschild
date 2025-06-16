@@ -7,7 +7,7 @@
 </h3>
 
 
-<h4 align="center">
+<p align="center">
   <!-- Intro -->
   <samp>
     「 I'm a software developer from <b>India</b> 」
@@ -16,7 +16,7 @@
     <br>
     <br>
   </samp>
-</h4>
+</p>
 
 
 ## <samp>About Me</samp>

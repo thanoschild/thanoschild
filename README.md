@@ -1,10 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=1a8cff&section=header"/>
 
-<h3 align="center">
-  <samp>&gt; Hey There!, I am
+<p align="center">
+  <samp style="font-size: 22px;">&gt; Hey There!, I am
     <b><a target="_blank" href="https://github.com/thanoschild">Sumeet Haldar</a></b>
   </samp>
-</h3>
+</p>
 
 
 <p align="center">

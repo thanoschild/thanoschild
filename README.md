@@ -2,12 +2,12 @@
 
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://github.com/thanoschild">Sumeet Haldar</a></b>
+    <b><a target="_blank" href="https://github.com/thanoschild/thanoschild">Sumeet Haldar</a></b>
   </samp>
 </h3>
 
 
-<p align="center">
+<h4 align="center">
   <!-- Intro -->
   <samp>
     「 I'm a software developer from <b>India</b> 」
@@ -16,7 +16,7 @@
     <br>
     <br>
   </samp>
-</p>
+</h4>
 
 
 ## <samp>About Me</samp>
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/kafka-494a46?style=for-the-badge&logo=apachekafka&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/WebSocket-2D9BF0?style=for-the-badge&logo=websocket&logoColor=white" />&nbsp;

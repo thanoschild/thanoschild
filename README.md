@@ -1,11 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=1a8cff&section=header"/>
 
 <h3 align="center">
-<picture>
-  <source srcset="dark-banner.png" media="(prefers-color-scheme: dark)">
-  <source srcset="light-banner.png" media="(prefers-color-scheme: light)">
-  <img src="light-banner.png" alt="Banner" />
-</picture>
+  <samp>&gt; Hey There!, I am
+    <b><a target="_blank" href="https://github.com/thanoschild">Sumeet Haldar</a></b>
+  </samp>
 </h3>
 
 
@@ -70,7 +68,7 @@ No activity tracked
   <img alt="github-snake" src="https://github.com/thanoschild/thanoschild/blob/gh-pages/github-snake.svg" />
 </picture> -->
 
-## <samp>Where to find me</samp>
+## <samp>Social links</samp>
 <p align="left">
   <a href="mailto:hsumeet11@gmail.com?subject=Sumeet%20Haldar"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/h-sumeet/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;

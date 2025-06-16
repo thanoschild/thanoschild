@@ -16,3 +16,4 @@
   <img alt="github-snake" src="https://github.com/thanoschild/thanoschild/blob/gh-pages/github-snake.svg" />
 </picture>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=1a8cff&section=footer"/>

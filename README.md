@@ -1,12 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=1a8cff&section=header"/>
 
 <h3 align="center">
-  <a href="https://github.com/thanoschild" media="(prefers-color-scheme: dark)" target="_blank">
-    <img src="img/banner_dark.png" alt="Hey There!, I am Sumeet Haldar" width="400"/>
-  </a>
-  <a href="https://github.com/thanoschild" media="(prefers-color-scheme: light)" target="_blank">
-    <img src="img/banner_light.png" alt="Hey There!, I am Sumeet Haldar" width="400"/>
-  </a>
+<picture>
+  <source srcset="dark-banner.png" media="(prefers-color-scheme: dark)">
+  <source srcset="light-banner.png" media="(prefers-color-scheme: light)">
+  <img src="light-banner.png" alt="Banner" />
+</picture>
 </h3>
 
 

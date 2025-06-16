@@ -54,6 +54,11 @@
 
 ## <samp>Weekly Coding Activity</samp>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ## <samp>Year of Commits</samp>

@@ -21,7 +21,7 @@
 
 ## <samp>About Me</samp>
  <span>
-   I'm a software developer with strong problem-solving skills and a solid foundation in computer science fundamentals. I work across the full stack using Java, Python, JavaScript/TypeScript, and tools like Kafka, Redis, MongoDB, MySQL, Docker, and GCP. I build scalable, real-time web applications using Node.js, React, Next.js, WebSocket, and Prisma. Passionate about creating impactful solutions, I enjoy tackling complex challenges in both backend systems and user-facing interfaces.
+  I'm a software developer with strong problem-solving skills and a solid foundation in computer science fundamentals. I build full-stack applications using Java, Python, JavaScript, and TypeScript, and design scalable, real-time systems with tools like Kafka, Redis, Docker, MongoDB, MySQL, and GCP. I also work with modern web frameworks like Node.js, React, and Next.js to craft responsive and engaging user interfaces, bridging system efficiency with great user experience.
 </span>
 
 ## <samp>Tools & Technology</samp>
